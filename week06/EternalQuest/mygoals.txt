@@ -1,0 +1,3 @@
+900
+SimpleGoal:Drink Water,Drink 1 glass,100,True
+ChecklistGoal:pray,praying,400,400,1,1
